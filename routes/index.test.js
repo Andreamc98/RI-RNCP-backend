@@ -77,7 +77,7 @@ test("users Wishlist - Body correct", async (done) => {
         username: 'Test',
         password: '$2b$10$NzKihMRtlZVtdIjtZqQJwurNghxuewZ6eG8OG1la8D4I/K0uqjJ.6',
         token: 'sWJxSP13ZBZEtBWzjSC4neJkBKuU080j',
-        __v: 11
+        __v: 29
       },
       result: true,
       username: 'Test'
